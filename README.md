@@ -5,7 +5,8 @@
 ## 🛠 Skills
 Trello, Jira, Xray, Metodologias agiles, Scrum, Slack, Discord...
 
- ## 📫 Linkedin [linkedin](https://www.linkedin.com/in/editheugeniaescarlon)
+ ## 📫 Mis redes
+- [linkedin](https://www.linkedin.com/in/editheugeniaescarlon)
 
 
 <!---
